@@ -39,18 +39,18 @@ VFTrack is a novel method for automated feature tracking specifically designed f
 
     Use Algorithm_CNT.ipynb file for tracking CNTs
 
-<!-- ## 📚 Citation
+## 📚 Citation
 
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{kaveh2025automatic,
+@article{safavigerdini2025automated,
   title={Automated Feature Tracking for Real-Time Kinematic Analysis and Shape Estimation of Carbon Nanotube Growth},
-  author={Authors},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+  author={Safavigerdini, Kaveh and Surya, Ramakrishna and Collins, Jaired and Calyam, Prasad and Bunyak, Filiz and Maschmann, Matthew R and Palaniappan, Kannappan},
+  journal={arXiv preprint arXiv:2508.19232},
   year={2025}
 }
-``` -->
+```
 
 ## 📧 Contact
 
